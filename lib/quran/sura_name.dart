@@ -16,7 +16,7 @@ class _suran_nameState extends State<suran_name> {
     return InkWell(
       onTap: () {
         Navigator.of(context).pushNamed(sura_details.routeName,
-        arguments: sura_details_args(title: widget.name,index:widget.index));
+        arguments: sura_details_args(title: widget.name));
         setState(() {
 
         });

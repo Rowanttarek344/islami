@@ -26,7 +26,7 @@ class MyTheme {
       subtitle1: TextStyle(
           color: black,
           fontSize: 25,
-          fontWeight: FontWeight.w600,
+          fontWeight: FontWeight.w600
       ),
 
     ),
