@@ -12,6 +12,8 @@
   "light" : "مضيء",
   "dark" : "ليلي",
   "sura_name" : "اسم السورة",
-  "ahadeth" : "الاحاديث"
+  "ahadeth" : "الاحاديث",
+  "tasbehat_count" : "عدد التسبيحات"
+
 
 }

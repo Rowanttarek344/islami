@@ -5,6 +5,8 @@ class MyTheme {
   static Color gold_primary=Color(0xFFB7935F);
   static Color yellow_primary=Color(0xFFFACC1D);
   static Color dark_blue=Color(0xFF141A2E);
+  static Color light_gold=Color(0xFFB7935F);
+
 
 
 
